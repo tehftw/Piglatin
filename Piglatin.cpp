@@ -1,8 +1,14 @@
 
 /**
+*   copyright RafaÅ‚ "tehftw"
+*
+*
+*/
+
+/**
     Pig latin
 
-    Pig Latin – Pig Latin is a game of alterations played on the English language game.
+    Pig Latin â€“ Pig Latin is a game of alterations played on the English language game.
 To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed
 (Ex.: "banana" would yield anana-bay).
 //*/
@@ -68,7 +74,7 @@ void tehpiglatin::basicPiglatinConsoleMenu()
 
     cout << "\nPig Latin :D";
 
-    cout << "\nPig Latin – Pig Latin is a game of alterations played on the English language game.";
+    cout << "\nPig Latin â€“ Pig Latin is a game of alterations played on the English language game.";
     cout << "\nCurrently this program works by moving the first consonant to the end and adding suffix '-ay'.";
     cout << "\nEx.: 'banana' would yield 'ananabay'.";
 
